@@ -3,6 +3,7 @@
 A PocketMine-MP plugin that implements support for custom blocks, items and entities (forked). 
 `Mira-Customies is a greatly improved fork of Customies, which was removed a few months ago. This is a well-kept copy of the plugin and its API. Fully functional, plus the improvements are in the management of entities, items, and custom blocks, which allows for better handling without visual bugs. In other words, it is stable.`
 
+
 ## Community
 
 ### `Official:`
@@ -13,7 +14,6 @@ A PocketMine-MP plugin that implements support for custom blocks, items and enti
 Officisal Discord community chat for socializing, receiving help with the plugin, and sharing creations. Join in on the
 fun!
 
-S
 
 ## Important Contributors
 
@@ -24,3 +24,4 @@ S
 | [Abimek](https://github.com/abimek)                   | Helped develop the item components implementation and block-related bug fixes                |
 | [Unickorn](https://github.com/Unickorn)               | Maintained the code during the PM4 betas and kept it up to date                              |
 | [JackNoordhuis](https://github.com/JackNoordhuis)     | Suggested the idea of using async workers and helped write the code which made them function |
+| [devpapo](https://github.com/devpapo)                 | I surely preserve the plugin and the API, and improve the API for entities and items         |
