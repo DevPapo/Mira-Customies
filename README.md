@@ -24,4 +24,4 @@ fun!
 | [Abimek](https://github.com/abimek)                   | Helped develop the item components implementation and block-related bug fixes                |
 | [Unickorn](https://github.com/Unickorn)               | Maintained the code during the PM4 betas and kept it up to date                              |
 | [JackNoordhuis](https://github.com/JackNoordhuis)     | Suggested the idea of using async workers and helped write the code which made them function |
-| [devpapo](https://github.com/devpapo)                 | I surely preserve the plugin and the API, and improve the API for entities and items         |
+| [DevPapo](https://github.com/devpapo)                 | I surely preserve the plugin and the API, and improve the API for entities and items         |
